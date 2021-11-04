@@ -8,7 +8,7 @@ Vue를 처음부터 공부하시는 분들은 참고하시면 좋을 거 같습�
 2021.11
 
 ## Study Documents
-* [강좌 문서 내용](document/list.md)
+* [강좌 문서 내용](documents/list.md)
 
 ## Firebase Deploy Website View
 [test-vuetify1.5](https://test-vf-15.web.app/)
