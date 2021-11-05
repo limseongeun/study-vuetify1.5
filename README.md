@@ -30,7 +30,7 @@ yarn install
 ```
 yarn serve
 ```
-※ 참고로 windows 7에서는 'yarn serve' 시 오류가 나서 로컬호스트에서 확인이 안 됩니다. [오류 내용보기](win7-error.md)
+※ 참고로 windows 7에서는 'yarn serve' 시 오류가 나서 로컬호스트에서 확인이 안 됩니다. [오류 내용보기](https://github.com/limseongeun/test-vuetify1.5/issues/1)
 
 ### Compiles and minifies for production
 ```
