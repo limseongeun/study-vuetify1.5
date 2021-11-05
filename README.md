@@ -17,9 +17,9 @@ Vue를 처음부터 공부하시는 분들은 참고하시면 좋을 거 같습�
 [test-vuetify1.5](https://test-vf-15.web.app/)
 
 ## Project Dev Environment
-OS : Windows 10
-Vue Version : 2.6.11
-Vuefify Version : 1.5.5
+OS : Windows 10   
+Vue Version : 2.6.11   
+Vuetify Version : 1.5.5   
 
 ## Project setup
 ```
