@@ -18,6 +18,7 @@ Vue를 처음부터 공부하시는 분들은 참고하시면 좋을 거 같습�
 
 ## Project Dev Environment
 OS : Windows 10   
+Node Version : 16.13.0   
 Vue Version : 2.6.11   
 Vuetify Version : 1.5.5   
 
