@@ -35,7 +35,7 @@ yarn serve
 code .
 ```
 
--   메뉴에서 'View - Extenstions'에서 Vue 관련 프로그램 설치
+-   메뉴에서 'View - Extenstions'에서 Vue 관련 프로그램 설치 - [자세한 설명 아래 참고](#vue-vscode-extentions)
     - **Vetur :** .vue 파일의 코드 하이라이팅을 위해서 사용
     - **vue :** Vetur와 같이 .vue 파일 초기 구성 생성
     - **Vue VSCode Snippets :** .vue 파일 초기 구성 생성으로 젠코딩 같은 역할
@@ -54,6 +54,20 @@ code .
 vue add vuetify@0.5
 vue invoke vuetify
 ```
+
+## Vue VScode Extentions
+1. Vetur
+
+2. Vue VSCode Snippets
+
+3. Task Explorer
+
+4. ESLint
+
+5. GitLens
+
+6. Material Design Icons Intellisense
+
 
 ---
 
