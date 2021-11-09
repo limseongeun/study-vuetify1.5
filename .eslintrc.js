@@ -1,34 +1,26 @@
 module.exports = {
-	env: {
-		browser: true,
-		es2020: true,
-		node: true,
-	},
-	extends: ['eslint:recommended', 'plugin:prettier/recommended', "plugin:vue/base"],
+	root: true,
 	parserOptions: {
-		ecmaVersion: 11,
-		sourceType: 'module',
-		parser: 'babel-eslint',
+			parser: 'babel-eslint',
 	},
-	plugins: ['prettier'],
+	env: {
+			browser: true,
+	},
+	extends: [
+			'plugin:vue/recommended',
+	],
+	plugins: [
+			'vue',
+	],
 	rules: {
-		'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
-		'no-unused-vars': 'off',
-		'vue/no-unused-components': 'off', // 미사용 변수 체크 해제,
-		'prettier/prettier': [
-			'error',
-			{
-				singleQuote: true,
-				semi: true,
-				useTabs: true,
-				tabWidth: 2,
-				trailingComma: 'all',
-				printWidth: 80,
-				bracketSpacing: true,
-				arrowParens: 'avoid',
-				endOfLine: 'auto',
-			},
-		],
-
+			'nenerator-start-spacing': 'off',
+			'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+			'semi': ["error", "never"],
+			'no-unsafe-finally': 0,
+			'no-return-assign': 0,
+			'comma-dangle': ['error', "always-multiline"],
+			'space-before-function-paren': ['error', 'never'],
+			'space-before-blocks': ['error', 'never'],
+			'keyword-spacing': ['error', { before: true, after: true}],
 	},
 };
