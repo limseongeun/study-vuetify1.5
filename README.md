@@ -1,4 +1,4 @@
-# test-vuetify1.5
+# study-vuetify1.5
 
 <img src="https://s3.tproger.ru/uploads/2019/02/vue-cover.jpg" alt="vue firebase logo"></img>  
 Vue와 Vuetify에 대한 강좌를 통해 학습한 내용을 소스와 가이드 문서로 정리한 레포지토리입니다.   
