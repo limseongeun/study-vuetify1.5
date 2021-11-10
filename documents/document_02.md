@@ -135,7 +135,11 @@ code .
 ```
   2. VScode setting.json 옵션 추가  
     
-  ![eslint-setting](https://user-images.githubusercontent.com/13953651/141036030-8ceea386-aa09-4a39-b597-2dbc996374a1.gif)
+  ![eslint-setting](https://user-images.githubusercontent.com/13953651/141036030-8ceea386-aa09-4a39-b597-2dbc996374a1.gif) 
+  
+  적용 된 화면   
+  
+  ![eslint-set](https://user-images.githubusercontent.com/13953651/141051174-a7df391b-4d75-47b8-a6bd-c4d4eaaa9167.gif)
 
 </div>
 </details>
