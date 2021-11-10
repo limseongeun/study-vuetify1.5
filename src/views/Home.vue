@@ -11,6 +11,7 @@
           contain
           height="200"
         />
+        <p>안녕하세요. Vue 가이드 사이트 입니다.</p>
       </v-flex>
     </v-layout>
   </v-container>

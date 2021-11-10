@@ -4,7 +4,7 @@
       <v-toolbar-side-icon />
       <v-toolbar-title>Title</v-toolbar-title>
       <v-spacer />
-      <v-toolbar-items class="">
+      <v-toolbar-items class="option_menu">
         <v-btn icon>
           <v-icon>mdi-magnify</v-icon>
         </v-btn>
