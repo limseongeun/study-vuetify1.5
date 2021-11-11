@@ -21,7 +21,8 @@
     </div>
   </body>
 </html>
-
+```
+```
 //App.vue
 <template>
   <v-app>
@@ -62,7 +63,8 @@ new Vue({
 	render: h => h(App),
 	router,
 }).$mount('#app')
-
+```
+```
 //router.js
 import Vue from 'vue'
 import VueRouter from 'vue-router'
@@ -96,10 +98,11 @@ export default router
 
 ```
 
-라우터 적용된 화면
+* 라우터 적용된 화면
 
 ![router_screen](https://user-images.githubusercontent.com/13953651/141221203-0e21d344-521c-4393-a9e5-fdc8eb092fc2.gif)
 
+-> 페이지 이동이 있을 때마다 새로고침 되는 것처럼 보이지만, 라우터에 의해 컨텐츠 내용만 전환됨.
 
 ## 3. Vue.js devtools 활용
 * 크롬브라우저에서 지원하는 Vue.js devtools 확장 프로그램 설치 [설치 바로가기](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?utm_source=chrome-ntp-icon)
