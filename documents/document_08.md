@@ -1,6 +1,8 @@
 # 8강 vuetify로 툴바 만들기
 환경설정에서 설치한 Vue의 대표적인 전용 프레임워크인 vuetify를 사용하여 화면을 구성하는 첫 번째 내용으로, 툴바 제작에 대한 내용입니다.
 
+![image](https://user-images.githubusercontent.com/13953651/141734925-0e01923a-4ce3-454e-b08a-6455f546ad8e.png)
+
 ## 1. vuetify 사이트 적극 활용
 [사이트 바로가기](https://v15.vuetifyjs.com/ko/getting-started/quick-start)   
 
