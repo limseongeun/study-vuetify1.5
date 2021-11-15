@@ -9,3 +9,4 @@
 6. [Git 다운로드하기](document_06.md)
 7. [Vue 맛보기](document_07.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/7)
 8. [vuetify로 툴바 만들기](document_08.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/8)
+9. [vuetify로 리스트 만들기](document_09.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/9)
