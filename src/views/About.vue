@@ -1,9 +1,17 @@
 <template>
-	<div class="about">
-		<span :title="message">
-			내 위에 잠시 마우스를 올리면 동적으로 바인딩 된 title을 볼 수 있습니다.
-		</span>
-	</div>
+	<v-list>
+		<v-list-tile v-for="item in items" :key="item.title">
+			<v-list-tile-avatar>
+				<v-icon>{{ item.icon }}</v-icon>
+			</v-list-tile-avatar>
+			<v-list-tile-content>
+				<v-list-tile-title>{{ item.title }}</v-list-tile-title>
+			</v-list-tile-content>
+			<!-- <v-list-tile-action>
+				<v-btn><v-icon>mdi-alert-box</v-icon></v-btn>
+			</v-list-tile-action> -->
+		</v-list-tile>
+	</v-list>
 </template>
 
 <script>
@@ -12,7 +20,11 @@ export default {
 	components: {},
 	data() {
 		return {
-			message: '여기는 소개페이지입니다.' + new Date(),
+			items: [
+				{ title: 'home', icon: 'mdi-alert' },
+				{ title: 'about', icon: 'mdi-alert-box' },
+				{ title: 'about2', icon: 'mdi-alert-circle' },
+			],
 		};
 	},
 };
