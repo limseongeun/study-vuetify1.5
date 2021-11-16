@@ -1,17 +1,5 @@
 <template>
-	<v-list>
-		<v-list-tile v-for="item in items" :key="item.title">
-			<v-list-tile-avatar>
-				<v-icon>{{ item.icon }}</v-icon>
-			</v-list-tile-avatar>
-			<v-list-tile-content>
-				<v-list-tile-title>{{ item.title }}</v-list-tile-title>
-			</v-list-tile-content>
-			<!-- <v-list-tile-action>
-				<v-btn><v-icon>mdi-alert-box</v-icon></v-btn>
-			</v-list-tile-action> -->
-		</v-list-tile>
-	</v-list>
+	<div id="about">여기는 소개 페이지1입니다.</div>
 </template>
 
 <script>
@@ -20,11 +8,7 @@ export default {
 	components: {},
 	data() {
 		return {
-			items: [
-				{ title: 'home', icon: 'mdi-alert' },
-				{ title: 'about', icon: 'mdi-alert-box' },
-				{ title: 'about2', icon: 'mdi-alert-circle' },
-			],
+			//
 		};
 	},
 };
