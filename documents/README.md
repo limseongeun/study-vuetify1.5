@@ -11,3 +11,4 @@
 8. [vuetify로 툴바 만들기](document_08.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/8)
 9. [vuetify로 리스트 만들기](document_09.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/9)
 10. [vuetify로 네비게이션 드라워 만들기](document_10.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/10)
+11. [vuetify로 하위 메뉴 구성하기](document_11.md) - [해당 소스 바로가기](https://github.com/limseongeun/test-vuetify1.5/tree/11)
