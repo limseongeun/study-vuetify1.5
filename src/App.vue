@@ -87,6 +87,10 @@ export default {
 							to: '/',
 						},
 						{
+							title: 'About',
+							to: '/about',
+						},
+						{
 							title: 'About2',
 							to: '/about2',
 						},
