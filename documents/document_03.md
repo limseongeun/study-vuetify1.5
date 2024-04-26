@@ -4,7 +4,7 @@
 ## 1. Firebase Site 로그인
 * [사이트 이동](https://firebase.google.com/)
 
-<img src="https://www.gstatic.com/devrel-devsite/prod/vff7e8445fa7d53cc21534f5556b6a4ee6bfada97ce5d2ad049b51bab5c641518/firebase/images/lockup.png" class="devsite-site-logo" alt="Firebase">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" class="devsite-site-logo" alt="Firebase">
 
 * 시작하기 클릭
 
