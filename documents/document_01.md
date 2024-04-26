@@ -29,7 +29,7 @@ npm ERR! code SELF_SIGNED_CERT_IN_CHAIN
 <img src="https://code.visualstudio.com/assets/home/home-screenshot-win.png" alt="Visual Studio Code" width="500" height="360"></img>
 
 ## 5. vue cli2 설치
-<img src="https://v3.vuejs.org/logo.png" alt="vue logo" width="150" height="150"></img>  
+<img src="https://vuejs.org/images/logo.png" alt="vue logo" width="150" height="150"></img>  
 * 설치
 ```
 npm install -g @vue/cli 
